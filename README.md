@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lowri-gwenllian-roberts/)
 - 👀 I’m interested in coding websites and apps.
 - 🌱 I’m currently coding a final project for NorthCoders.
+- 👩‍💼 Pronouns: her / she
 
 
 ## </> Skills
