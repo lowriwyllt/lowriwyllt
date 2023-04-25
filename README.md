@@ -7,9 +7,9 @@
 ## </> Skills
 - python - first year of university
 - c - second year of university and summer placement
-- javascript - intoduction through NorthCoders
-- CSS - codeacademy
-- HTML - codeacademy
+- javascript - Boolean Coding week, freeCodeCamp and NorthCoders
+- CSS - codeacademy, Boolean Coding week, freeCodeCamp and NorthCoders
+- HTML - codeacademy, Boolean Coding week, freeCodeCamp and NorthCoders
 
 <!---
 lowriwyllt/lowriwyllt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
