@@ -34,8 +34,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm devicon" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visiual studio code devicon" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="trello devicon" width="50"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase devicon" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript devicon" width="50"/>
 </div>
           
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -48,6 +51,8 @@ I have learnt these skills from various formats from learning python and C++ whi
 This is my own personal website to showcase my skills and give some informartion about myself.  This is still a work in progress.
 - [Lowri Games](https://lowrigames.netlify.app/)
 This is a website I made while at Northcoders.  Building an API for the back end before adding an UI.  This is still a work in progress.
+- [Allotment](https://github.com/lowriwyllt/allotment)
+This is an app I made as a final project at Northcoders, with my team, Kween Beezz. We used firebase as backend and for authentication and used react native with expo go to build our app.
 
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=lowriwyllt&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
