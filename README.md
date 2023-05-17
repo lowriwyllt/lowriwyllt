@@ -13,8 +13,10 @@
 
 # 👋 Hi, I’m Lowri Roberts
 - 👀 I’m interested in coding websites and apps.
-- 🌱 I’m currently coding a final project for NorthCoders.
+- 🌱 I’m currently coding personal projects.
 - 👩‍💼 Pronouns: her / she
+- 🎓 I'm a  graduate in Physics from University of Bath
+- 💡 I'm constantly learning and working on new projects
 
 
 ## </> Skills
@@ -46,21 +48,33 @@
 
 I have learnt these skills from various formats from learning python and C++ while doing my physics degree.  To doing free courses online to expand my horizons on websites such as codeFreeCamp and codecademy or week long courses through Boolean.  And doing NorthCoders bootcamp.
 
-## Projects
-- [Portfolio website](https://lowriroberts.netlify.app/)
-This is my own personal website to showcase my skills and give some informartion about myself.  This is still a work in progress.
-- [Lowri Games](https://lowrigames.netlify.app/)
-This is a website I made while at Northcoders.  Building an API for the back end before adding an UI.  This is still a work in progress.
-- [Allotment](https://github.com/lowriwyllt/allotment)
-This is an app I made as a final project at Northcoders, with my team, Kween Beezz. We used firebase as backend and for authentication and used react native with expo go to build our app.
-
-## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=lowriwyllt&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-![Lowri's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowriwyllt&show_icons=true&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lowriwyllt&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Codewars Stats
-![Codewars](https://github.r2v.ch/codewars?user=lowriwyllt&stroke=COLOR)
+## Projects and Dev Stuff:
+<details>
+  <summary><b>Projects</b></summary>
+  <ul>
+    <li><a href="https://lowriroberts.netlify.app/">Portfolio website</a> - This is my own personal website to showcase my skills and give some informartion about myself.  This is still a work in progress.</li>
+    <li><a href="https://lowrigames.netlify.app/">Lowri Games</a> - This is a website I made while at Northcoders.  Building an API for the back end before adding an UI.  This is still a work in progress.</li>
+    <li>
+      <a href="https://github.com/lowriwyllt/allotment">Allotment</a> - This is an app I made as a final project at Northcoders, with my team, Kween Beezz. We used firebase as backend and for authentication and used react native with expo go to build our app.
+    </li>
+  </ul>
+  </details>
+  
+  <details>
+  <summary><b>Github Stats</b></summary>
+  <div align="center">
+  <img align="center" width="80%" src="https://streak-stats.demolab.com?user=lowriwyllt&theme=dark&hide_border=true&exclude_days=Sun%2CSat"/>
+  <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=lowriwyllt&show_icons=true&theme=radical" />
+  <img align="center" width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=lowriwyllt&theme=react-dark" />
+    </div>
+  </details>
+  
+  <details>
+  <summary><b>Codewars stats</b></summary>
+  <div align="center">
+    <img width="80%" src="https://github.r2v.ch/codewars?user=lowriwyllt&stroke=COLOR"/>
+  </div>
+  </details>
 
 Credits to:
 - [@DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg) for the svg typing
