@@ -13,7 +13,7 @@
 
 # 👋 Hi, I’m Lowri Roberts
 - 👀 I’m interested in coding websites and apps.
-- 🌱 I’m currently coding personal projects.
+- 🌱 I’m currently making a website for a local business.
 - 👩‍💼 Pronouns: her / she
 - 🎓 I'm a  graduate in Physics from University of Bath
 - 💡 I'm constantly learning and working on new projects
