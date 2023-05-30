@@ -63,10 +63,10 @@ I have learnt these skills from various formats from learning python and C++ whi
   <details>
   <summary><b>Github Stats</b></summary>
   <div align="center">
-  <img align="center" width="80%" src="https://streak-stats.demolab.com?user=lowriwyllt&theme=dark&hide_border=true&exclude_days=Sun%2CSat"/>
-  <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=lowriwyllt&show_icons=true&theme=radical" />
-  <img align="center" width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=lowriwyllt&theme=react-dark" />
-    </div>
+    <img align="center" width="80%" src="https://streak-stats.demolab.com?user=lowriwyllt&theme=dark&hide_border=true&exclude_days=Sun%2CSat"/>
+    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=lowriwyllt&show_icons=true&theme=radical" />
+    <img align="center" width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=lowriwyllt&theme=react-dark" />
+  </div>
   </details>
   
   <details>
