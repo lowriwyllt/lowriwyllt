@@ -57,6 +57,9 @@ I have learnt these skills from various formats from learning python and C++ whi
     <li>
       <a href="https://github.com/lowriwyllt/allotment">Allotment</a> - This is an app I made as a final project at Northcoders, with my team, Kween Beezz. We used firebase as backend and for authentication and used react native with expo go to build our app.
     </li>
+    <li>
+      <a href="https://github.com/lowriwyllt/maethNatur">Maeth Natur</a> - This is a website I am currently working on for a local business.  They want a website that will direct to their etsy page but include more information about their company, where to buy products etc. It is currently work in progress this is the hosted website so far - https://maeth-natur.web.app/Home.
+    </li>
   </ul>
   </details>
   
