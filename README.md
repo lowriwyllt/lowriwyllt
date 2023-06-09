@@ -53,7 +53,7 @@ I have learnt these skills from various formats from learning python and C++ whi
   <summary><b>Projects</b></summary>
   <ul>
     <li><a href="https://lowriroberts.netlify.app/">Portfolio website</a> - This is my own personal website to showcase my skills and give some informartion about myself.  This is still a work in progress.</li>
-    <li><a href="https://lowrigames.netlify.app/">Lowri Games</a> - This is a website I made while at Northcoders.  Building an API for the back end before adding an UI.  This is still a work in progress.</li>
+    <li><a href="https://lowrigames.netlify.app/">NC Games</a> - This is a website I made while at Northcoders.  Building an API for the back end before adding an UI.  This is still a work in progress.</li>
     <li>
       <a href="https://github.com/lowriwyllt/allotment">Allotment</a> - This is an app I made as a final project at Northcoders, with my team, Kween Beezz. We used firebase as backend and for authentication and used react native with expo go to build our app.
     </li>
