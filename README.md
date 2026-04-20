@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img alt="woman coding" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="50%"/>
   <br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=381A4B&center=true&vCenter=true&width=435&lines=Senior+Application+Engineer;%3C+Coding+%2F%3E;Expanding+my+knowledge" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=381A4B&center=true&vCenter=true&width=435&lines=Senior+App+Engineer;%3C+Coding+%2F%3E;Expanding+my+knowledge" alt="Typing SVG"/></a>
 </div>
 
 
